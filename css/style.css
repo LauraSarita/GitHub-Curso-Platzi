@@ -1,6 +1,6 @@
 body
 {
-    color: rgb(236, 11, 11);
+    color: black;
     text-align: center;
     font-family: Arial;
     font-size: 16px;
@@ -40,5 +40,12 @@ body
 }
 #post
 {
+    padding: 1em;
+}
+#footer
+{
+    background: blueviolet;
+    color: white;
+    text-align: center;
     padding: 1em;
 }
